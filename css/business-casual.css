@@ -6,6 +6,7 @@
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  color: rgb(0,0,0);
 }
 
 h1, h2, h3, h4, h5, h6, .text-heading {
@@ -13,7 +14,7 @@ h1, h2, h3, h4, h5, h6, .text-heading {
 }
 
 h1 {
-  font-size: 44rem;
+  font-size: 4rem;
   color: black;
 }
 
